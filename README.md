@@ -3,7 +3,7 @@
 
 Welcome to Godson Dawuni homepage!!!
 
-I obtained my Computer Science Master degree in 2020 from University of Ghana under the guidance of Dr. Jamal Deen Abdulai.
+I obtained my Computer Science Master degree in 2020 from University of Ghana under the guidance of <a href="[https://example.com](https://scholar.google.com/citations?hl=en&user=9NW_wRsAAAAJ&view_op=list_works&sortby=pubdate)">Dr. Jamal Deen Abdulai</a>.
 
 I conducted research on Software-Defined Networking focused on comparing the performance metrics of three Openflow SDN Controllers - Floodlight, OpenDayLight and HPE VAN. 
 
