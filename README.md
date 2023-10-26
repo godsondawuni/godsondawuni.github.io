@@ -10,7 +10,9 @@ I conducted research on Software-Defined Networking focused on comparing the per
 Prior to that, I earned a Bachelor's degree in Computer Science from the Kwame Nkrumah University of Science and Technology. 
 
 
-My broader research interests are ArtificialIntelligence, Software-Defined Networking (SDN), Network Functions Virtualization (NFV) and Interthing of Things (IoT) . I am keenly interested in how machine leaning techniques coupled with SDN would secure networked devices such as IoT. 
+My broader research interests are ArtificialIntelligence, Software-Defined Networking (SDN), Network Functions Virtualization (NFV) and Internet of Things (IoT). 
+
+I am keenly interested in how machine leaning techniques coupled with SDN would secure networked devices such as IoT. 
 
 To this end I have become proficient in using Mininet, Openstack, NS3, Cisco Packet Tracer, Linux, EdgeX Foundry and Node-Red with MQTT for SDN/NFV and Internet of Things (IoT) experiments and deployment.
 
