@@ -73,9 +73,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Godson Dawuni"
+  name             : Godson Dawuni
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : Your biography for the left-hand sidebar
   location         :  Ghana
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
